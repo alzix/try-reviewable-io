@@ -15,7 +15,7 @@ int main(int argv, char *argv[])
         return -1;
     }
 
-    /* Trailing whitespace again! */ 
-    
+    /* Trailing whitespace again! */
+
     return 0;
 }
