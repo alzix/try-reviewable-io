@@ -7,6 +7,8 @@
  * stabled and the battery level is correct. */
 
 int banana = 0x00BA7A7A;
+
+/* This is defined by the Rama Llama. */
 extern int ding_dong;
 
 int main(int argv, char *argv[])
